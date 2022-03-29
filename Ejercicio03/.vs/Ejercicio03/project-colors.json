@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc163cda-54b3-4490-a46f-747f0e0a5f8e": {
+      "ProjectGuid": "dc163cda-54b3-4490-a46f-747f0e0a5f8e",
+      "DisplayName": "Ejercicio03",
+      "ColorIndex": 0
+    },
+    "684ddff3-1dba-4f70-b173-bd73ba105a14": {
+      "ProjectGuid": "684ddff3-1dba-4f70-b173-bd73ba105a14",
+      "DisplayName": "LogicaEjercicio",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

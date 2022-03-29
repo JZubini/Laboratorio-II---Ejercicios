@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7eb4a85a-1b8a-4b65-a43b-11324cd0b1b7": {
+      "ProjectGuid": "7eb4a85a-1b8a-4b65-a43b-11324cd0b1b7",
+      "DisplayName": "Ejercicio02",
+      "ColorIndex": 0
+    },
+    "be006ffa-0b03-40aa-9486-8383188ed71a": {
+      "ProjectGuid": "be006ffa-0b03-40aa-9486-8383188ed71a",
+      "DisplayName": "LogicaEjercicio",
+      "ColorIndex": 1
+    },
+    "2296199d-441c-470a-a1e3-3980a9cce475": {
+      "ProjectGuid": "2296199d-441c-470a-a1e3-3980a9cce475",
+      "DisplayName": "Ejercicio03",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

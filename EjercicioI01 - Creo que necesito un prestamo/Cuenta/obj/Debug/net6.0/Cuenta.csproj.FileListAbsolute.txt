@@ -1,0 +1,12 @@
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\bin\Debug\net6.0\Cuenta.deps.json
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\bin\Debug\net6.0\Cuenta.dll
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\bin\Debug\net6.0\ref\Cuenta.dll
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\bin\Debug\net6.0\Cuenta.pdb
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\obj\Debug\net6.0\Cuenta.csproj.AssemblyReference.cache
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\obj\Debug\net6.0\Cuenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\obj\Debug\net6.0\Cuenta.AssemblyInfoInputs.cache
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\obj\Debug\net6.0\Cuenta.AssemblyInfo.cs
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\obj\Debug\net6.0\Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\obj\Debug\net6.0\Cuenta.dll
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\obj\Debug\net6.0\ref\Cuenta.dll
+C:\Users\Julián Zubini\source\repos\Clase03\Cuenta\obj\Debug\net6.0\Cuenta.pdb

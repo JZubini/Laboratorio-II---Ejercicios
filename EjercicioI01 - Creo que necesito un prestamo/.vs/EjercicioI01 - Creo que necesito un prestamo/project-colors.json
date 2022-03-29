@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "165d1cb7-ea25-4eb7-af3c-7339e560e5dc": {
+      "ProjectGuid": "165d1cb7-ea25-4eb7-af3c-7339e560e5dc",
+      "DisplayName": "EjercicioI01",
+      "ColorIndex": 0
+    },
+    "8c0aec86-0c66-464a-9583-4f97288d97bd": {
+      "ProjectGuid": "8c0aec86-0c66-464a-9583-4f97288d97bd",
+      "DisplayName": "Cuenta",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2a0e991-b1bf-48a4-ac89-d3a27c41a5c5": {
+      "ProjectGuid": "f2a0e991-b1bf-48a4-ac89-d3a27c41a5c5",
+      "DisplayName": "Ejercicio01",
+      "ColorIndex": 0
+    },
+    "5a498c2e-d825-494c-a965-8612a53955c8": {
+      "ProjectGuid": "5a498c2e-d825-494c-a965-8612a53955c8",
+      "DisplayName": "LogicaValidar",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
