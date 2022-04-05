@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03bb3e94-b6ac-4780-94bb-dc6d10086e25": {
+      "ProjectGuid": "03bb3e94-b6ac-4780-94bb-dc6d10086e25",
+      "DisplayName": "EjercicioI03 - Ejemplo universal",
+      "ColorIndex": 0
+    },
+    "96ae1a06-bc9f-4e96-9341-561b2f10fa8c": {
+      "ProjectGuid": "96ae1a06-bc9f-4e96-9341-561b2f10fa8c",
+      "DisplayName": "Estudiante",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,18 @@
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\EjercicioI03 - Ejemplo universal.csproj.AssemblyReference.cache
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\EjercicioI03 - Ejemplo universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\EjercicioI03 - Ejemplo universal.AssemblyInfoInputs.cache
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\EjercicioI03 - Ejemplo universal.AssemblyInfo.cs
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\EjercicioI03 - Ejemplo universal.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\bin\Debug\net6.0\EjercicioI03 - Ejemplo universal.exe
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\bin\Debug\net6.0\EjercicioI03 - Ejemplo universal.deps.json
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\bin\Debug\net6.0\EjercicioI03 - Ejemplo universal.runtimeconfig.json
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\bin\Debug\net6.0\EjercicioI03 - Ejemplo universal.dll
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\bin\Debug\net6.0\ref\EjercicioI03 - Ejemplo universal.dll
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\bin\Debug\net6.0\EjercicioI03 - Ejemplo universal.pdb
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\bin\Debug\net6.0\Estudiante.dll
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\bin\Debug\net6.0\Estudiante.pdb
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\EjercicioI03 - Ejemplo universal.csproj.CopyComplete
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\EjercicioI03 - Ejemplo universal.dll
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\ref\EjercicioI03 - Ejemplo universal.dll
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\EjercicioI03 - Ejemplo universal.pdb
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\EjercicioI03 - Ejemplo universal\obj\Debug\net6.0\EjercicioI03 - Ejemplo universal.genruntimeconfig.cache

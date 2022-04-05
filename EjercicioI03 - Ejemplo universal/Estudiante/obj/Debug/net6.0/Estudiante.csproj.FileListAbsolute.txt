@@ -1,0 +1,12 @@
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\obj\Debug\net6.0\Estudiante.csproj.AssemblyReference.cache
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\obj\Debug\net6.0\Estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\obj\Debug\net6.0\Estudiante.AssemblyInfoInputs.cache
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\obj\Debug\net6.0\Estudiante.AssemblyInfo.cs
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\obj\Debug\net6.0\Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\bin\Debug\net6.0\Estudiante.deps.json
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\bin\Debug\net6.0\Estudiante.dll
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\bin\Debug\net6.0\ref\Estudiante.dll
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\bin\Debug\net6.0\Estudiante.pdb
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\obj\Debug\net6.0\Estudiante.dll
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\obj\Debug\net6.0\ref\Estudiante.dll
+C:\Users\Julián Zubini\source\repos\EjercicioI03 - Ejemplo universal\Estudiante\obj\Debug\net6.0\Estudiante.pdb

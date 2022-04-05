@@ -1,0 +1,11 @@
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\bin\Debug\Clase 5 - Windows form.exe.config
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\bin\Debug\Clase 5 - Windows form.exe
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\bin\Debug\Clase 5 - Windows form.pdb
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\obj\Debug\Clase 5 - Windows form.csproj.AssemblyReference.cache
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\obj\Debug\Clase 5 - Windows form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\obj\Debug\Clase_5___Windows_form.Form2.resources
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\obj\Debug\Clase_5___Windows_form.Properties.Resources.resources
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\obj\Debug\Clase 5 - Windows form.csproj.GenerateResource.cache
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\obj\Debug\Clase 5 - Windows form.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\obj\Debug\Clase 5 - Windows form.exe
+C:\Users\Julián Zubini\source\repos\Clase 5 - Windows form\Clase 5 - Windows form\obj\Debug\Clase 5 - Windows form.pdb
