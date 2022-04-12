@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04457c09-ebe8-45d5-b4bd-09c824d4081e": {
+      "ProjectGuid": "04457c09-ebe8-45d5-b4bd-09c824d4081e",
+      "DisplayName": "Ejercicio I02 - Cotizador",
+      "ColorIndex": 0
+    },
+    "0545b292-e3ab-476b-a36c-dabcd51dc57e": {
+      "ProjectGuid": "0545b292-e3ab-476b-a36c-dabcd51dc57e",
+      "DisplayName": "LogicaEjercicio",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

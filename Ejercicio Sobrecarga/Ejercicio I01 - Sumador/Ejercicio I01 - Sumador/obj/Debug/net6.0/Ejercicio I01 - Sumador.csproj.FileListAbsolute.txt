@@ -1,0 +1,18 @@
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.exe
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.deps.json
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.runtimeconfig.json
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.dll
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\bin\Debug\net6.0\ref\Ejercicio I01 - Sumador.dll
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.pdb
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\bin\Debug\net6.0\LogicaEjercicio.dll
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\bin\Debug\net6.0\LogicaEjercicio.pdb
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.csproj.AssemblyReference.cache
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.AssemblyInfoInputs.cache
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.AssemblyInfo.cs
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.csproj.CopyComplete
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.dll
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\ref\Ejercicio I01 - Sumador.dll
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.pdb
+C:\Users\Julián Zubini\source\repos\Ejercicio I01 - Sumador\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.genruntimeconfig.cache

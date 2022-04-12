@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1d01c1c-81ab-4e7a-afca-235e9f7a456c": {
+      "ProjectGuid": "f1d01c1c-81ab-4e7a-afca-235e9f7a456c",
+      "DisplayName": "Ejercicio I01 - Sumador",
+      "ColorIndex": 0
+    },
+    "47c2c7b2-d5a6-427a-8889-e54fa7ee2d46": {
+      "ProjectGuid": "47c2c7b2-d5a6-427a-8889-e54fa7ee2d46",
+      "DisplayName": "LogicaEjercicio",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

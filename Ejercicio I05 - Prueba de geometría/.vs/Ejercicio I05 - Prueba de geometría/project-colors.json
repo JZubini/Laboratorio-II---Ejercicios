@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0953bbcd-ecee-4951-ac5b-9d0aef934b2e": {
+      "ProjectGuid": "0953bbcd-ecee-4951-ac5b-9d0aef934b2e",
+      "DisplayName": "Ejercicio I05 - Prueba de geometría",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "ea81cd4e-e010-4ba4-b81e-64bffd8154b3": {
+      "ProjectGuid": "ea81cd4e-e010-4ba4-b81e-64bffd8154b3",
+      "DisplayName": "LogicaEjercicio",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

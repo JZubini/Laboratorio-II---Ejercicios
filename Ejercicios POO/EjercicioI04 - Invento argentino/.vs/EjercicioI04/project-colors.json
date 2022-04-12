@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6688909d-e79e-4e9b-a445-88346c856623": {
+      "ProjectGuid": "6688909d-e79e-4e9b-a445-88346c856623",
+      "DisplayName": "EjercicioI04",
+      "ColorIndex": 0
+    },
+    "3c1d60dd-af71-4d10-a041-b282c29e3f6a": {
+      "ProjectGuid": "3c1d60dd-af71-4d10-a041-b282c29e3f6a",
+      "DisplayName": "LogicaEjercicio",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
