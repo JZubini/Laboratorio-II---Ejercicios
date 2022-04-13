@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9dec41b8-4214-4be0-91c6-01a7944101e4": {
+      "ProjectGuid": "9dec41b8-4214-4be0-91c6-01a7944101e4",
+      "DisplayName": "Logica",
+      "ColorIndex": 0
+    },
+    "23dce1ad-d1df-481d-b56b-7298fb1c78b0": {
+      "ProjectGuid": "23dce1ad-d1df-481d-b56b-7298fb1c78b0",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

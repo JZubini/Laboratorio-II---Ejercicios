@@ -2,15 +2,36 @@
 {
     public class Validador
     {
-        public static bool Validar(int valor, int valorMinimo, int valorMax)
+        private bool EsBinario(string binario)
         {
-            if (valor > valorMinimo && valor < valorMax)
+            foreach (char item in binario)
             {
-                return true;
+                if (item != 0 || item != 1)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        public string BinarioDecimal(string binario)
+        {
+            if (EsBinario(binario))
+            {
+                int potencias;
+                double acumuladorOperacion;
+                potencias = binario.Length;
+                acumuladorOperacion = 0;
+                foreach (double item in binario)
+                {
+                    acumuladorOperacion += Math.Pow(item, potencias);
+                    potencias--;
+                }
+                return acumuladorOperacion.ToString();
             }
             else
             {
-                return false;
+                return "Valor inválido";
             }
         }
     }

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5d0a20f-2b78-4e02-9069-7c845c6261e4": {
+      "ProjectGuid": "e5d0a20f-2b78-4e02-9069-7c845c6261e4",
+      "DisplayName": "Ejercicio I01 - El viajar es un placer",
+      "ColorIndex": 0
+    },
+    "9e1bea77-bdbf-4fc1-9892-8c1256ceb223": {
+      "ProjectGuid": "9e1bea77-bdbf-4fc1-9892-8c1256ceb223",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

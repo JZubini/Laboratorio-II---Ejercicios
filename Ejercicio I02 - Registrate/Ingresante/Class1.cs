@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Ingresante
 {
-    public class Ingresante
+    public class Ingresantes
     {
         private string[] cursos;
         private string direccion;
@@ -12,7 +12,7 @@ namespace Ingresante
         private string nombre;
         private string pais;
 
-        public Ingresante(string[] cursos, string direccion, int edad, string genero, string nombre, string pais)
+        public Ingresantes(string[] cursos, string direccion, int edad, string genero, string nombre, string pais)
         {
             this.cursos = cursos;
             this.direccion = direccion;
@@ -36,7 +36,6 @@ namespace Ingresante
                 sb.AppendLine($"Curso/s: {this.cursos}");
             }
             return sb.ToString();
-
         }
     }
 }

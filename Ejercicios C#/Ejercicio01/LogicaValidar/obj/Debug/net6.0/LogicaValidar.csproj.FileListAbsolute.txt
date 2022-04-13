@@ -9,3 +9,15 @@ C:\Users\Julián Zubini\source\repos\Ejercicio01\LogicaValidar\obj\Debug\net6.0\
 C:\Users\Julián Zubini\source\repos\Ejercicio01\LogicaValidar\obj\Debug\net6.0\LogicaValidar.dll
 C:\Users\Julián Zubini\source\repos\Ejercicio01\LogicaValidar\obj\Debug\net6.0\ref\LogicaValidar.dll
 C:\Users\Julián Zubini\source\repos\Ejercicio01\LogicaValidar\obj\Debug\net6.0\LogicaValidar.pdb
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\bin\Debug\net6.0\LogicaValidar.deps.json
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\bin\Debug\net6.0\LogicaValidar.dll
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\bin\Debug\net6.0\ref\LogicaValidar.dll
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\bin\Debug\net6.0\LogicaValidar.pdb
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\obj\Debug\net6.0\LogicaValidar.csproj.AssemblyReference.cache
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\obj\Debug\net6.0\LogicaValidar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\obj\Debug\net6.0\LogicaValidar.AssemblyInfoInputs.cache
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\obj\Debug\net6.0\LogicaValidar.AssemblyInfo.cs
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\obj\Debug\net6.0\LogicaValidar.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\obj\Debug\net6.0\LogicaValidar.dll
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\obj\Debug\net6.0\ref\LogicaValidar.dll
+C:\Users\Julián Zubini\source\repos\Ejercicios C#\Ejercicio01\LogicaValidar\obj\Debug\net6.0\LogicaValidar.pdb

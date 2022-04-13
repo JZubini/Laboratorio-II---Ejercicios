@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71861e0b-60ac-4576-a372-5d8b8f799881": {
+      "ProjectGuid": "71861e0b-60ac-4576-a372-5d8b8f799881",
+      "DisplayName": "Herencia",
+      "ColorIndex": 0
+    },
+    "abb5b15d-d1a5-401e-9465-38b3e2f9146c": {
+      "ProjectGuid": "abb5b15d-d1a5-401e-9465-38b3e2f9146c",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 1
+    },
+    "1b886c9d-715d-4dc5-bf0d-1d30ac70ef3f": {
+      "ProjectGuid": "1b886c9d-715d-4dc5-bf0d-1d30ac70ef3f",
+      "DisplayName": "Libro",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

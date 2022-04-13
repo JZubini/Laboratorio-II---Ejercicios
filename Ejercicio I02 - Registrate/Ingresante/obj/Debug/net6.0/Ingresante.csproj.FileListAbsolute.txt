@@ -1,0 +1,12 @@
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\bin\Debug\net6.0\Ingresante.deps.json
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\bin\Debug\net6.0\Ingresante.dll
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\bin\Debug\net6.0\ref\Ingresante.dll
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\bin\Debug\net6.0\Ingresante.pdb
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\obj\Debug\net6.0\Ingresante.csproj.AssemblyReference.cache
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\obj\Debug\net6.0\Ingresante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\obj\Debug\net6.0\Ingresante.AssemblyInfoInputs.cache
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\obj\Debug\net6.0\Ingresante.AssemblyInfo.cs
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\obj\Debug\net6.0\Ingresante.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\obj\Debug\net6.0\Ingresante.dll
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\obj\Debug\net6.0\ref\Ingresante.dll
+C:\Users\Julián Zubini\source\repos\Ejercicio I02 - Registrate\Ingresante\obj\Debug\net6.0\Ingresante.pdb

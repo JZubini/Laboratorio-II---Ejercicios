@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27b75f43-998f-4bbb-bc97-d2c1c71f404a": {
+      "ProjectGuid": "27b75f43-998f-4bbb-bc97-d2c1c71f404a",
+      "DisplayName": "Ejercicio I02 - Registrate",
+      "ColorIndex": 0
+    },
+    "36d2f34b-a024-4ddb-9411-a85cbfc646bd": {
+      "ProjectGuid": "36d2f34b-a024-4ddb-9411-a85cbfc646bd",
+      "DisplayName": "Ingresante",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

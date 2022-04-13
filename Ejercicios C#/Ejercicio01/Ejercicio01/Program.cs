@@ -1,60 +1,80 @@
-﻿
-using System;
-using LogicaValidador;
+﻿using System;
+using System.Text;
 namespace Program
 {
     class Program
     {
-        public static int rangoMinimo = -100;
-        public static int rangoMaximo = 100;
-        static void Main(string[] args)
+        /*
+        private static bool EsBinario(string binario)
         {
-            int valorIngresado;
-            string valorIngresadoString;
-            int i;
-            bool retornoFuncionValidar;
-            bool retornoFuncionInt;
-            bool banderaPrimerIngreso = true;
-            int valorMaximoIngresado;
-            int valorMinimoIngresado;
-            int contadorDeIngresosExitosos;
-            int acumuladorDeNumerosIngresados;
-            int promedioNumerosIngresados;
-            contadorDeIngresosExitosos = 0;
-            acumuladorDeNumerosIngresados = 0;
-            valorMaximoIngresado = 0;
-            valorMinimoIngresado = 0;
-            for (i = 0; i < 10; i++)
+            foreach (char item in binario)
             {
-                Console.WriteLine("Ingrese un numero a continuación: ");
-                valorIngresadoString = Console.ReadLine();
-                retornoFuncionInt = int.TryParse(valorIngresadoString, out valorIngresado);
-                retornoFuncionValidar = Validador.Validar(valorIngresado, rangoMinimo, rangoMaximo);
-                if (retornoFuncionValidar && retornoFuncionInt)
+                Console.WriteLine($"{item}");
+                if (item != '0' && item != '1')
                 {
-                    if (banderaPrimerIngreso)
-                    {
-                        valorMaximoIngresado = valorIngresado;
-                        valorMinimoIngresado = valorIngresado;
-                        banderaPrimerIngreso = false;
-                    }
-                    else
-                    {
-                        if (valorIngresado > valorMaximoIngresado)
-                        {
-                            valorMaximoIngresado = valorIngresado;
-                        }
-                        if (valorIngresado < valorMinimoIngresado)
-                        {
-                            valorMinimoIngresado = valorIngresado;
-                        }
-                    }
-                    acumuladorDeNumerosIngresados += valorIngresado;
-                    contadorDeIngresosExitosos++;
+                    return false;
                 }
             }
-            promedioNumerosIngresados = acumuladorDeNumerosIngresados / contadorDeIngresosExitosos;
-            Console.WriteLine("Numero mayor ingresado: {0} | Numero menor ingresado: {1} | Promedio: {2}", valorMaximoIngresado, valorMinimoIngresado, promedioNumerosIngresados);
+            return true;
+        }
+
+        public static string BinarioDecimal(string binario)
+        {
+            if (EsBinario(binario))
+            {
+                int potencias;
+                double acumuladorOperacion;
+                potencias = binario.Length;
+                potencias--;
+                acumuladorOperacion = 0;
+                foreach(char item in binario)
+                {
+                    Console.WriteLine($"Potencias: {potencias}");
+                    Console.WriteLine($"Items: {item}");
+                    Console.WriteLine($"Math.Pow: {Math.Pow(2, potencias)}");
+                    acumuladorOperacion = acumuladorOperacion + (Char.GetNumericValue(item) * Math.Pow(2, potencias));
+                    potencias--;
+                    Console.WriteLine($"Acumulador: {acumuladorOperacion}");
+                }
+                
+                return acumuladorOperacion.ToString();
+            }
+            else
+            {
+                return "Valor inválido";
+            }
+        }
+        */
+
+        public static string DecimalBinario(string numero)
+        {
+            double valorConvertido;
+            double valorAbsoluto;
+            int valorEntero;
+            int operacionDivision;
+            int operacionResto;
+            StringBuilder retornoFuncion;
+            valorConvertido = Convert.ToDouble(numero);
+            valorAbsoluto = Math.Abs(valorConvertido);
+            valorEntero = (int)Math.Floor(valorAbsoluto); 
+            retornoFuncion = new StringBuilder();
+            do
+            {
+                operacionDivision = valorEntero / 2;
+                operacionResto = valorEntero % 2;
+                retornoFuncion.Append(operacionResto);
+                valorEntero = operacionDivision;     
+            } while (valorEntero > 0);
+            return retornoFuncion.ToString();   
+        }
+
+        static void Main(string[] args)
+        {
+            string binario = "11";
+            binario = Console.ReadLine();
+           
+            Console.WriteLine($"{DecimalBinario(binario)}");
+            
         }
     }
 }

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "Ingresante/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ingresante.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ingresante.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ingresante/1.0.0": {
+      "type": "project",
+      "path": "../Ingresante/Ingresante.csproj",
+      "msbuildProject": "../Ingresante/Ingresante.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "Ingresante >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Julián Zubini\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Julián Zubini\\source\\repos\\Ejercicio I02 - Registrate\\Ingresante\\Ingresante.csproj": {
+              "projectPath": "C:\\Users\\Julián Zubini\\source\\repos\\Ejercicio I02 - Registrate\\Ingresante\\Ingresante.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
