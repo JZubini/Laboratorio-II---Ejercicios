@@ -41,7 +41,6 @@ namespace Entidades
         {
             foreach (char item in binario)
             {
-                Console.WriteLine($"{item}");
                 if (item != '0' && item != '1')
                 {
                     return false;
@@ -92,7 +91,7 @@ namespace Entidades
             return retornoFuncion.ToString();
         }
 
-        public static string DecimalBinario(string numero)
+        public string DecimalBinario(string numero)
         {
             double valorConvertido;
             double valorAbsoluto;
@@ -138,14 +137,13 @@ namespace Entidades
             return n1.numero / n2.numero;
         }
 
-
-
     }
     public static class Calculadora
     {
 
         public static double Operar(Operando num1, Operando num2, char operador)
         {
+            operador = ValidarOperador(operador);
             switch (operador)
             {
                 case '+':

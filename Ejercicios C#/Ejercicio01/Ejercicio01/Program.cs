@@ -72,9 +72,7 @@ namespace Program
         {
             string binario = "11";
             binario = Console.ReadLine();
-           
-            Console.WriteLine($"{DecimalBinario(binario)}");
-            
+            Console.WriteLine($"{DecimalBinario(binario)}"); 
         }
     }
 }

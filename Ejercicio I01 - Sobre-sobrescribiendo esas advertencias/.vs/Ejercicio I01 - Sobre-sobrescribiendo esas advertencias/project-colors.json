@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d075c462-870c-48d5-87f2-9883d5faa4de": {
+      "ProjectGuid": "d075c462-870c-48d5-87f2-9883d5faa4de",
+      "DisplayName": "Ejercicio I01 - Sobre-sobrescribiendo esas advertencias",
+      "ColorIndex": 0
+    },
+    "68b4b632-78f9-43a3-bd28-7475021ce305": {
+      "ProjectGuid": "68b4b632-78f9-43a3-bd28-7475021ce305",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

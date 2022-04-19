@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I01 - Sobre-sobrescribiendo esas advertencias", "Ejercicio I01 - Sobre-sobrescribiendo esas advertencias\Ejercicio I01 - Sobre-sobrescribiendo esas advertencias.csproj", "{D075C462-870C-48D5-87F2-9883D5FAA4DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Sobrescrito\Biblioteca.csproj", "{68B4B632-78F9-43A3-BD28-7475021CE305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D075C462-870C-48D5-87F2-9883D5FAA4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D075C462-870C-48D5-87F2-9883D5FAA4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D075C462-870C-48D5-87F2-9883D5FAA4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D075C462-870C-48D5-87F2-9883D5FAA4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B4B632-78F9-43A3-BD28-7475021CE305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B4B632-78F9-43A3-BD28-7475021CE305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B4B632-78F9-43A3-BD28-7475021CE305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B4B632-78F9-43A3-BD28-7475021CE305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F22078-D9AB-47B4-AB88-F3A96F5E6031}
+	EndGlobalSection
+EndGlobal

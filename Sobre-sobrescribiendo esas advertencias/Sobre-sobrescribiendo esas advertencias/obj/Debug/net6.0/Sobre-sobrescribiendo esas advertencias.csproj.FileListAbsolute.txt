@@ -1,0 +1,18 @@
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.csproj.AssemblyReference.cache
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.AssemblyInfoInputs.cache
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.AssemblyInfo.cs
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.csproj.CoreCompileInputs.cache
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.exe
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.deps.json
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.runtimeconfig.json
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\ref\Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.pdb
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.csproj.CopyComplete
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\ref\Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.pdb
+C:\Users\Julián Zubini\source\repos\Sobre-sobrescribiendo esas advertencias\Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\Sobre-sobrescribiendo esas advertencias.genruntimeconfig.cache
