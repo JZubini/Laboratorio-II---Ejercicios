@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92aad8c5-1d07-4d33-9496-66e3169c0679": {
+      "ProjectGuid": "92aad8c5-1d07-4d33-9496-66e3169c0679",
+      "DisplayName": "Sobre-sobrescribiendo esas advertencias",
+      "ColorIndex": 0
+    },
+    "98ad1dde-176a-40ea-8a22-45b0ded4423b": {
+      "ProjectGuid": "98ad1dde-176a-40ea-8a22-45b0ded4423b",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
